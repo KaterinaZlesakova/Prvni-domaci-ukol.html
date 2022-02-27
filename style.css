@@ -1,0 +1,81 @@
+body {
+    background-image: radial-gradient(circle at 50% -20.71%, #a4d8ec 0, #a7d7ef 6.25%, #abd6f1 12.5%, #b0d5f3 18.75%, #b5d3f4 25%, #bbd2f4 31.25%, #c1d0f4 37.5%, #c7cff3 43.75%, #cdcdf2 50%, #d3cbf0 56.25%, #d9caed 62.5%, #dec8ea 68.75%, #e3c7e7 75%, #e8c6e3 81.25%, #ecc5df 87.5%, #efc4da 93.75%, #f2c4d6 100%);
+    line-height: 1,5;
+    color: #8B008B;
+}
+
+h1 {
+    text-align: center;
+    color: #800080;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.foto {
+    height: 300px;
+    float: right;
+    border: 3px solid black;
+    margin-top: 100px;
+    margin-right: 250px;
+    overflow: auto;
+}
+
+.paragraf,
+.kod {
+    height: 300px;
+    float: right;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-right: 250px;
+    overflow: auto;
+}
+
+td,
+h2 {
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+}
+
+h2 {
+    color: #800080;
+}
+
+header {
+    padding: 150px 30px;
+}
+
+section {
+    overflow: auto;
+    margin: 75px;
+}
+
+.jmeno {
+    margin: 150px;
+}
+
+
+ul {
+    margin: 100px 150px;
+    color: #8B008B;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    padding: 20px 0;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.zkusenosti,
+.skola {
+    border-spacing: 50px;
+    margin: 30px 100px;
+}
+
+.jmeno {
+    border-spacing: 5px;
+}
+
+.dovednosti {
+    margin: 50px;
+}
